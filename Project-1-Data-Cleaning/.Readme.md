@@ -1,0 +1,98 @@
+# Data Analytics Project 1 – Data Cleaning & Preparation
+
+## Overview
+
+This project was completed as part of the **DecodeLabs Industrial Training Program (Batch 2026)**. The objective was to prepare a raw e-commerce dataset for analysis by validating its quality and ensuring that it was free from common data issues such as missing values, duplicate records, inconsistent formatting, and incorrect data types.
+
+The project demonstrates the importance of data cleaning as the first step in the data analytics workflow.
+
+---
+
+## Project Objective
+
+* Identify missing or null values.
+* Check for duplicate records.
+* Validate data types and formats.
+* Standardize the dataset for analysis.
+* Prepare a clean dataset for future analytical projects.
+
+---
+
+## Dataset Information
+
+* **Total Records:** 1,200
+* **Total Columns:** 14
+
+### Dataset Fields
+
+* Order ID
+* Date
+* Customer ID
+* Product
+* Quantity
+* Unit Price
+* Shipping Address
+* Payment Method
+* Order Status
+* Tracking Number
+* Items in Cart
+* Coupon Code
+* Referral Source
+* Total Price
+
+---
+
+## Tools Used
+
+* Microsoft Excel
+
+---
+
+## Data Cleaning Tasks Performed
+
+* Checked for missing values.
+* Verified duplicate records using Order ID.
+* Validated date formats.
+* Verified numeric and text data types.
+* Reviewed overall data consistency.
+
+---
+
+## Validation Results
+
+| Validation                 | Status                         |
+| -------------------------- | ------------------------------ |
+| Missing Values             | ✅ No missing values found      |
+| Duplicate Records          | ✅ No duplicate Order IDs found |
+| Date Formatting            | ✅ Valid and consistent         |
+| Data Types                 | ✅ Verified                     |
+| Dataset Ready for Analysis | ✅ Yes                          |
+
+---
+
+## Project Files
+
+```text
+├── Raw_Dataset.xlsx
+├── Cleaned_Dataset.xlsx
+├── Project_1_Report.pdf
+└── README.md
+```
+
+---
+
+## Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Data validation
+* Data cleaning techniques
+* Dataset preparation
+* Quality assurance
+* Excel-based data analysis
+
+---
+
+## Conclusion
+
+Although the provided dataset required minimal modifications, a complete validation process was performed to ensure that the data met quality standards. The final dataset is accurate, consistent, and ready for further analysis in subsequent projects such as Exploratory Data Analysis (EDA), SQL querying, and dashboard development.
