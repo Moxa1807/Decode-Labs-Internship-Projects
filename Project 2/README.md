@@ -94,8 +94,8 @@ Project-2-Exploratory-Data-Analysis/
 ├── Dataset/
 │   └── Cleaned dataset.xlsx
 │
-├── EDA_Ecommerce.ipynb
-├── EDA_Ecommerce.html
+├── Project 2.ipynb
+├── Project 2.html
 └── README.md
 ```
 
